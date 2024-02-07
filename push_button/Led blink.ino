@@ -10,3 +10,4 @@ void loop()
  delay(1000);
  }
 //led connect with D1 pin and get GND in ARDUINO UNO 
+https://youtu.be/xwi-wboZ3wI?si=bfR13lpYVtbSCMxf
